@@ -14,5 +14,5 @@ provider "aws" {
 
 # Example resource: S3 Bucket
 resource "aws_s3_bucket" "example" {
-  bucket = "my-tf-test-bucket-1234567"
+  bucket = "sk-aws-s3-bucket-x1"
 }
